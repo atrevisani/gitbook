@@ -1,0 +1,2 @@
+#Ignore all SWLite databaes
+db/*.sqlite3 
